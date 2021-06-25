@@ -1,4 +1,4 @@
-module github.com/saferwall/pe
+module github.com/rbrick/pe
 
 go 1.15
 
