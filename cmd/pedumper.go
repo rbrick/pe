@@ -13,7 +13,7 @@ import (
 	"os"
 	"path/filepath"
 
-	peparser "github.com/saferwall/pe"
+	peparser "github.com/rbrick/pe"
 	"github.com/spf13/cobra"
 )
 
